@@ -49,6 +49,7 @@ int main()
       printWinner(winner);
 
       printf("\nWould you like to play again? (Y/N): ");
+      //Cannot run scanf (%c) on Mac OS X
       getchar();
       scanf ("%c", &response);
       response = toupper(response);
