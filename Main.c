@@ -1,3 +1,5 @@
+//Credit to Bro Code for Tic Tac Toe in C tutorial
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
